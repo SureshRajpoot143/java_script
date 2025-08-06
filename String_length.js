@@ -1,4 +1,4 @@
 length_of_string in js
 
-let name="suresh rajpoot"
+let name="life cycle"
 console.log(name.length);
